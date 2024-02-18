@@ -3,15 +3,15 @@ pageType: home
 
 hero:
   name: reborn life
-  text: Rspack-based Static Site Generator
-  tagline: reborn life tagline
+  text: 我们相信通过学习获得重生 —— 对我们来说，七年就是一辈子。
+  tagline: 每一辈子都要至少习得一个重要的技能，进而获得不可逆的重生
   actions:
     - theme: brand
       text: Quick Start
       link: /guide/
-    - theme: alt
-      text: Github
-      link: https://github.com/web-infra-dev/rspress
+    - theme: 新生
+      text: reborn
+      link: https://b.xinshengdaxue.com/index.html
   image:
     src: /rspress-icon.png
     alt: reborn life Logo
