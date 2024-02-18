@@ -10,11 +10,11 @@ export default defineConfig({
     light: '/rspress-light-logo.png',
     dark: '/rspress-dark-logo.png',
   },
-  base: '/rspress-template/',
+  base: '/reborn/',
 	builderConfig: {
 		output: {
 			// 给所有 static 目录下的静态文件引用添加前缀以便能够正确访问
-			assetPrefix: '/rspress-template/'
+			assetPrefix: '/reborn/'
 		}
 	},
   themeConfig: {
