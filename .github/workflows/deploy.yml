@@ -26,8 +26,7 @@ jobs:
           fetch-depth: 0 # Not needed if lastUpdated is not enabled
       - uses: pnpm/action-setup@v2 # pnpm is optional but recommended, you can also use npm / yarn
         with:
-          version: 7
-          cache: pnpm
+          version: 6
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
@@ -37,11 +36,6 @@ jobs:
         uses: actions/configure-pages@v3
       - name: Install dependencies
         run: pnpm install
-      - name: Install dependencies
-        run: pnpm install --no-frozen-lockfile
-        env:
-          PNPM_HOME: /home/runner/setup-pnpm/node_modules/.bin
-          GITHUB_PAGES: true
       - name: Build with Rspress
         run: |
           pnpm run build
