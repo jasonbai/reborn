@@ -2,7 +2,7 @@
 pageType: home
 
 hero:
-  name: reborn life
+  name: Reborn Life
   text: 我们相信通过学习获得重生,对我们来说，七年就是一辈子
   tagline: 每一辈子都要至少习得一个重要的技能,进而获得不可逆的重生
   actions:
