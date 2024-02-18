@@ -3,14 +3,14 @@ pageType: home
 
 hero:
   name: reborn life
-  text: 我们相信通过学习获得重生 —— 对我们来说，七年就是一辈子。
-  tagline: 每一辈子都要至少习得一个重要的技能，进而获得不可逆的重生
+  text: 我们相信通过学习获得重生,对我们来说，七年就是一辈子
+  tagline: 每一辈子都要至少习得一个重要的技能,进而获得不可逆的重生
   actions:
     - theme: brand
       text: Quick Start
       link: /guide/
     - theme: 新生
-      text: reborn
+      text: Reborn
       link: https://b.xinshengdaxue.com/index.html
   image:
     src: /rspress-icon.png

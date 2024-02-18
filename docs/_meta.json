@@ -5,9 +5,9 @@
     "activeMatch": "/guide/"
   },
   {
-    "text": "Hello World",
-    "link": "/hello/",
-    "activeMatch": "/hello/"
+    "text": "工具箱",
+    "link": "/工具/",
+    "activeMatch": "/工具/"
   },
   {
     "text": "1000hours",
