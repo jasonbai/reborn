@@ -39,6 +39,9 @@ jobs:
         run: pnpm install
       - name: Install dependencies
         run: pnpm install --no-frozen-lockfile
+        env:
+          PNPM_HOME: /home/runner/setup-pnpm/node_modules/.bin
+          GITHUB_PAGES: true
       - name: Build with Rspress
         run: |
           pnpm run build
