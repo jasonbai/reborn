@@ -1,6 +1,9 @@
 # Markdown & MDX
 
 Rspress supports not only Markdown but also [MDX](https://mdxjs.com/), a powerful way to develop content.
+## 书单
+- [《定投改变命运》](https://ri.firesbox.com/#/cn/)
+- [《1000hours》](https://1000h.org/intro.html/)
 
 ## Markdown
 

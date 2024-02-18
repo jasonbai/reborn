@@ -9,7 +9,7 @@ hero:
     - theme: brand
       text: Quick Start
       link: /guide/
-    - theme: 新生
+    - theme: brand
       text: Reborn
       link: https://b.xinshengdaxue.com/index.html
   image:
