@@ -1,0 +1,17 @@
+[
+  {
+    "type": "file",
+    "name": "introduction",
+    "label": "前言"
+  },
+	{
+    "type": "file",
+    "name": "booklist",
+    "label": "经典书单"
+  },
+  {
+    "type": "file",
+    "name": "2024_booklist",
+    "label": "2024阅读书单"
+  }
+]

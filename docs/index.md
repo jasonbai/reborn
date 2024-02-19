@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Quick Start
-      link: /guide/
+      link: /guide/start/introduction
     - theme: brand
       text: Reborn
       link: https://b.xinshengdaxue.com/index.html
