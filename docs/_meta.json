@@ -1,7 +1,7 @@
 [
   {
-    "text": "Guide",
-    "link": "guide/start/quick-start",
+    "text": "书单",
+    "link": "guide/start/booklist",
     "activeMatch": "/guide/"
   },
   {
