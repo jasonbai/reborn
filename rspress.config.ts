@@ -5,7 +5,7 @@ export default defineConfig({
   root: path.join(__dirname, 'docs'),
   title: 'reborn life',
   description: '我们相信通过学习获得重生,对我们来说，七年就是一辈子',
-  icon: '/rspress-icon.png',
+  icon: '/avatar.png',
   logo: {
     light: '/rspress-light-logo.png',
     dark: '/rspress-dark-logo.png',
