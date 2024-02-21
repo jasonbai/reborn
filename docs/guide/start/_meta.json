@@ -13,5 +13,10 @@
     "type": "file",
     "name": "2024_booklist",
     "label": "2024阅读书单"
+  },
+  {
+    "type": "file",
+    "name": "courses",
+    "label": "改变人生的课堂"
   }
 ]
