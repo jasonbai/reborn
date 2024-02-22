@@ -11,4 +11,3 @@
 - [《百万富翁快车道》](https://book.douban.com/subject/27041645/)
 - [《纳瓦尔宝典》](https://book.douban.com/subject/35876121/)
 
-## 量化交易
