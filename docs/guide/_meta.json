@@ -8,5 +8,10 @@
     "type": "dir",
     "name": "usage",
     "label": "警句"
+  },
+  {
+    "type": "dir",
+    "name": "knowledge",
+    "label": "知识库"
   }
 ]
