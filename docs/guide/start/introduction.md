@@ -24,4 +24,4 @@
 ---
  2023年2月27日  -- 上海
  
-![life.jpg](..%2F..%2Fpublic%2Fpic%2Flife.jpg)
+![life.jpg](../../public/pic/life.jpg)
