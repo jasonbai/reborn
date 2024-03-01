@@ -7,9 +7,10 @@
 - [《黑天鹅:如何应对不可预知的未来》](https://book.douban.com/subject/3025921/)
 - [《反脆弱:从不确定性中获益》](https://book.douban.com/subject/25782902/)
 - [《清醒思考的艺术》](https://book.douban.com/subject/20492550/)
+
 ## 财商教育
+- [《纳瓦尔宝典》](https://book.douban.com/subject/35876121/)
 - [《穷爸爸富爸爸》](https://book.douban.com/subject/3291111/)
 - [《百万富翁快车道》](https://book.douban.com/subject/27041645/)
-- [《纳瓦尔宝典》](https://book.douban.com/subject/35876121/)
 - [《邻家的百万富翁》](https://book.douban.com/subject/36593827/)
 
