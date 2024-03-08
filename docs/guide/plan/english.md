@@ -32,3 +32,13 @@
 说自己想说的话，是这个训练的一个重点。不要想着偷懒，随便找来一段录音就开始跟读。要尽量自己准备文本。
 
 :::
+
+##  训练记录
+
+### 2024 年 3 月 8 日
+测试效果
+> 中文:
+今天我建立了自己的学习英语的大计划，在智能时代有了更便捷的学习方法，学好英语这件事情似乎在我身上设定这样目标很多年，学习总是断断续续的，英语水平处在一个尴尬的位置，这次我又下定决心开始学习，看看这次的学习在新的时代背景下能不能提升一个大的台阶。
+
+> 英文：
+Today, I embarked on a grand plan to enhance my English learning, tapping into the convenient methods offered by the digital age. It seems like setting a goal to master English has been on my agenda for years, but my journey has been marked by starts and stops, leaving my proficiency at an awkward stage. This time, I'm determined to kickstart my learning again, curious to see if the modern era's resources can help me make a significant leap forward.
