@@ -40,5 +40,8 @@
 > 中文:
 今天我建立了自己的学习英语的大计划，在智能时代有了更便捷的学习方法，学好英语这件事情似乎在我身上设定这样目标很多年，学习总是断断续续的，英语水平处在一个尴尬的位置，这次我又下定决心开始学习，看看这次的学习在新的时代背景下能不能提升一个大的台阶。
 
-> 英文：
+> 英文：书面版本
 Today, I embarked on a grand plan to enhance my English learning, tapping into the convenient methods offered by the digital age. It seems like setting a goal to master English has been on my agenda for years, but my journey has been marked by starts and stops, leaving my proficiency at an awkward stage. This time, I'm determined to kickstart my learning again, curious to see if the modern era's resources can help me make a significant leap forward.
+
+> 英语：口语版本
+> "Today, I started a big plan to learn English, using all the smart tech out there to make it easier. I've been trying to get good at it for years, but it's been kinda hit or miss. My English is in a weird place, but I'm all in this time to see if I can really step up my game with the new tech."
