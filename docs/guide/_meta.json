@@ -11,6 +11,11 @@
   },
   {
     "type": "dir",
+    "name": "plan",
+    "label": "大计划"
+  },
+  {
+    "type": "dir",
     "name": "knowledge",
     "label": "知识库"
   }
