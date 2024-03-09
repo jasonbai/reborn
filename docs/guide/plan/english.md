@@ -45,3 +45,10 @@ Today, I embarked on a grand plan to enhance my English learning, tapping into t
 
 > 英语：口语版本
 > "Today, I started a big plan to learn English, using all the smart tech out there to make it easier. I've been trying to get good at it for years, but it's been kinda hit or miss. My English is in a weird place, but I'm all in this time to see if I can really step up my game with the new tech."
+> 
+### 2024 年 3 月 9 日
+> 中文:
+今天我开始详细安装部署了学习英语需要用的软件，在电脑上新建了目录用来存放学习记录。整体上看，我的学习环境基本搭建完毕，同时我计划把这次经历公布在网上，利用GitHub的pages功能，同步更新我的学习记录。当然我并不计划声张什么，等到学成的时候再好好秀一把。
+
+> 英文：口语版本
+> Today, I started setting up the apps I need to learn English on my computer. Created a folder to keep all my progress in check. Basically, I've got my whole learning setup ready to roll. Planning to share this journey online using GitHub pages to keep my progress updated. Not trying to make a big deal out of it, though. I'll wait till I've nailed it before I really show off.
