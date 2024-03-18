@@ -52,3 +52,11 @@ Today, I embarked on a grand plan to enhance my English learning, tapping into t
 
 > 英文：口语版本
 > Today, I started setting up the apps I need to learn English on my computer. Created a folder to keep all my progress in check. Basically, I've got my whole learning setup ready to roll. Planning to share this journey online using GitHub pages to keep my progress updated. Not trying to make a big deal out of it, though. I'll wait till I've nailed it before I really show off.
+> 
+### 2024年3月18日
+> 中文:
+距离上次更新已经过去9天，成年人想学习点新东西太难了，有太多事情挤占时间，需要很强大的毅力才能坚持下来，按照要求，每天3个小时学习英语实在太难了。好在忙完这两天，我又想起来这次的计划，再次更新一下。这样的记录形式看起来不错，能记录下我自己前进路上的点点滴滴。
+
+> 英文：口语版本
+Been 9 days since the last update. It's tough for adults to learn new stuff, with so much stuff eating up our time. Takes serious grit to keep at it, especially trying to squeeze in 3 hours of English study a day. But, got through these busy couple of days and remembered my plan, so here's an update. Keeping a log like this is pretty cool, captures all the steps along the way.
+> 
